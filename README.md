@@ -1,6 +1,6 @@
 Hello, I am Melike. I am a third year student at Abdullah Gül University. I have experiences about Java, C, Dart, Flutter, MySQL and Swift. I am actively developing mobile applications with Flutters. On the other hand I am currently learning Swift for iOS side. I am open to learning and exploring new areas. 
 
-🌱 I’m currently learning ...
+
 <!--
 **melikesoygullucu/melikesoygullucu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
