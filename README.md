@@ -1,4 +1,4 @@
-Hello, I am Melike. I am a third year student at Abdullah Gül University. I have experiences about Java, C, Dart, Flutter, MySQL and Swift. I am actively developing mobile applications with Flutters. On the other hand I am currently learning Swift for iOS side. I am open to learning and exploring new areas. 
+Hello, I am Melike. I am a third year student at Abdullah Gül University. I have experiences about Java, C, Dart, Flutter, MySQL and Swift. I am actively developing mobile applications with Flutter. On the other hand I am currently learning Swift for iOS side. I am open to learning and exploring new areas. 
 
 
 <!--
