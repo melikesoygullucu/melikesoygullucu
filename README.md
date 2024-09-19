@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello, I'm Melike ✨. I'm a fourth-year student at Abdullah Gül University. I have experience with Java, C, Dart, Flutter, MySQL, and Swift. With a year of part-time experience in Flutter, I have recently shifted my focus to learning the Swift programming language and embarking on various personal projects. My goal is to gain professional experience in iOS development and deliver solutions that improve user experience through mobile applications.</p>
+<p align="left">Hello, I'm Melike ✨. I'm a fourth-year student at Abdullah Gül University. I have experience with Swift, SwiftUI, UIKiu, Java, C, Dart, Flutter, MySQL. With a year of part-time experience in Flutter, I have recently shifted my focus to learning the Swift programming language and embarking on various personal projects. My goal is to gain professional experience in iOS development and deliver solutions that improve user experience through mobile applications.</p>
 
 ###
 
